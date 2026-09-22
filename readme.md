@@ -400,10 +400,8 @@ Possible extensions to this project include:
 
 **Ravi Raj**
 
-M.Tech – VLSI & Low Power
-B.Tech
+M.Tech – VLSI Design
 
-GitHub: [Ravi Raj](https://github.com/)
 LinkedIn: [Ravi Raj](https://www.linkedin.com/in/ravi-raj-06s1/)
 
 ---
