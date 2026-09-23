@@ -352,6 +352,7 @@ READ FAIL
 ```
 
 along with the final pass/fail count.
+<img width="1143" height="793" alt="image" src="https://github.com/user-attachments/assets/e4ecf184-13c0-4b2a-a31d-4ae072c31e4d" />
 
 <img width="1210" height="373" alt="image" src="https://github.com/user-attachments/assets/a5cf6df2-dc3d-4208-90a1-b054901923c0" />
 
