@@ -353,6 +353,8 @@ READ FAIL
 
 along with the final pass/fail count.
 
+<img width="1210" height="373" alt="image" src="https://github.com/user-attachments/assets/a5cf6df2-dc3d-4208-90a1-b054901923c0" />
+
 ---
 
 ## 🎯 Key Learning Outcomes
